@@ -23,4 +23,4 @@
 
 ## License
 
-React-Navigation-Example is [MIT licensed](./LICENSE).
+rn-navigation-example is [MIT licensed](./LICENSE).
